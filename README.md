@@ -1,1 +1,1 @@
-# censorify
+# today is good day
